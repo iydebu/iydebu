@@ -32,7 +32,7 @@
 
 /*Importing Google Fonts */
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,700,600,300|Playfair+Display:700italic,400italic|Crimson+Text:400italic,600italic|Open+Sans:400,700);
-@import url(https://fonts.google.com/specimen/Exo+2);
+@import url(https://fonts.googleapis.com/css2?family=Varela+Round&display=swap);
 /*=======================================================================
 	General CSS
 =======================================================================*/
@@ -457,7 +457,7 @@ body.section-show .transition-mask:before{
 	*zoom:1;
 	z-index:10;
 	color:#999;
-	font-family: 'Exo2', serif;
+	font-family: 'Varela Round', sans-serif;
 	font-style:bold;
 }
 
