@@ -33,6 +33,7 @@
 /*Importing Google Fonts */
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,700,600,300|Playfair+Display:700italic,400italic|Crimson+Text:400italic,600italic|Open+Sans:400,700);
 @import url(https://fonts.googleapis.com/css2?family=Varela+Round&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Righteous&family=Varela+Round&display=swap);
 /*=======================================================================
 	General CSS
 =======================================================================*/
@@ -448,17 +449,14 @@ body.section-show .transition-mask:before{
 .front-heading > h2{
 	font-size:55px;
 	font-weight:lighter;
-	letter-spacing:15px;
+	letter-spacing:10px;
 	position:relative;
 	position:relative;
 	line-height:1em;
 	display:inline-block;
-	*display:inline;
-	*zoom:1;
 	z-index:10;
 	color:#999;
-	font-family: 'Varela Round', sans-serif;
-	font-style:bold;
+	font-family: 'Righteous', cursive;
 }
 
 .front-person-img{
@@ -517,7 +515,7 @@ body.section-show .transition-mask:before{
 	text-transform:lowercase;
 }
 .front-person-titles > .t1{
-	left:5px;
+	left:-5px;
 	bottom:0;
 	-webkit-transform:rotate(-90deg) translateY(-100%);
 	-moz-transform:rotate(-90deg) translateY(-100%);
@@ -531,7 +529,7 @@ body.section-show .transition-mask:before{
 	transform-origin:0% 0%;
 }
 .front-person-titles > .t2{
-	top:5px;
+	top:-5px;
 	left:0;
 	-webkit-transform:translateY(-100%);
 	-moz-transform:translateY(-100%);
@@ -541,7 +539,7 @@ body.section-show .transition-mask:before{
 }
 .front-person-titles > .t3{
 	left:0;
-	bottom:5px;
+	bottom:-5px;
 	-webkit-transform:translateY(100%) rotate(180deg);
 	-moz-transform:translateY(100%) rotate(180deg);
 	-ms-transform:translateY(100%) rotate(180deg);
