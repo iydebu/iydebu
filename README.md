@@ -5,6 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iydebu" alt="iydebu" /></a> </p>
 <p align="left"> <a href="https://twitter.com/iydebu" target="blank"><img src="https://img.shields.io/twitter/follow/iydebu?logo=twitter&style=for-the-badge" alt="iydebu" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif">
+
 🔭 I’m currently working on Password Manager
 
 🌱 I’m currently learning Mongodb
