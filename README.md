@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif)]
+[![MasterHead](https://i.ibb.co/wJkjGj6/Basics-of-Video-Coding.gif)
 <h1 align="center">Hi 👋, I'm Devashish Tiwari</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iydebu&label=Profile%20views&color=0e75b6&style=flat" alt="iydebu" /> </p>
