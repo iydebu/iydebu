@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://iydebu.me)
+[![MasterHead](https://www.mygo.ge/uploads/blog/1584023795.jpg)](https://iydebu.me)
 <h1 align="center">Hi 👋, I'm Devashish Tiwari</h1>
 <h3 align="center">A passionate developer from India</h3>
 
