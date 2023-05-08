@@ -6,15 +6,25 @@
 <p align="left"> <a href="https://twitter.com/iydebu" target="blank"><img src="https://img.shields.io/twitter/follow/iydebu?logo=twitter&style=for-the-badge" alt="iydebu" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif">
 🔭 I’m currently working on Password Manager
+
 🌱 I’m currently learning Mongodb
+
 👯 I’m looking to collaborate on web3
+
 🤝 I’m looking for help with database
+
 👨‍💻 All of my projects are available at https://iydebu.me/
+
 📝 I regularly write articles on https://iydebu.me/
+
 💬 Ask me about C++, C, Python
+
 📫 How to reach me: debutiwa@gmail.com
+
 📄 Know about my experiences https://iydebu.me/
+
 ⚡ Fun fact: I think I am the king of the virtual world
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/iydebu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iydebu" height="30" width="40" /></a>
