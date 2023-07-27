@@ -1,36 +1,36 @@
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://iydebu.me)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F7LAJUT)
 
-<a href="https://www.buymeacoffee.com/iydebu"><img src="https://i.ibb.co/k3bFqFP/bmc-button.png" alt="ko-fi" width="180" height="50"></a>
 <h1 align="center">Hi 👋, I'm Devashish Tiwari</h1>
-<h3 align="center">A passionate developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iydebu&label=Profile%20views&color=0e75b6&style=flat" alt="iydebu" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iydebu" alt="iydebu" /></a> </p>
-<p align="left"> <a href="https://twitter.com/iydebu" target="blank"><img src="https://img.shields.io/twitter/follow/iydebu?logo=twitter&style=for-the-badge" alt="iydebu" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif">
+<h3 align="center">A passionate Game developer </h3>
 
-🔭 I’m currently working on Password Manager
+# 💫 About Me:
+🔭 I'm currently working on developing an adrenaline-pumping FPS multiplayer game that promises intense action, strategic gameplay, and a variety of maps and weapons to keep players engaged. Join the battle and experience the thrill of multiplayer combat like never before! 💥🎯<br><br>👯 I'm looking to collaborate on game development projects! If you have an exciting game idea or need a team member to work on an FPS multiplayer game, feel free to reach out to me. I'm skilled in Unity/C#, Unreal Engine/C++, game design, and have a passion for creating immersive gaming experiences. Let's join forces and bring our ideas to life together! 🚀🎮<br><br>🤝 I'm looking for help with implementing network functionality and server infrastructure for my FPS multiplayer game. If you have experience in networking, server-side development, or multiplayer game architecture, I would love to collaborate with you. Let's build a seamless online experience for players to enjoy intense battles and competitive gameplay. Feel free to reach out if you're interested in joining the team! 🌐💻🎮<br><br>🌱 I'm currently learning advanced AI techniques and machine learning algorithms to enhance the AI behavior and decision-making in my FPS multiplayer game. Additionally, I'm diving deeper into shader programming to create stunning visual effects and optimize performance. Learning never stops in the world of game development, and I'm excited to keep growing and pushing the boundaries of what I can achieve! 📚🎮🧠<br><br>💬 What programming languages are you using for your game development project? Are you focusing on a specific engine or using a custom framework? 🚀🔧🎮<br><br>⚡ Fun fact: Did you know that the iconic "Doomguy" character from the classic first-person shooter game "Doom" was originally meant to be just a placeholder sprite? The character's design was created by the lead artist Adrian Carmack, and he intended to replace it with a more refined character later on. However, the team loved the rough and rugged look of the character so much that they decided to keep it as the main protagonist throughout the series. "Doomguy" became an enduring symbol of the franchise and a beloved figure in gaming history. 🕹️👾🎮
 
-🌱 I’m currently learning Mongodb
 
-👯 I’m looking to collaborate on web3
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/UT99PJeW8z) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iydebu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iydebu) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Iydebu) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iydebu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iydebu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@iydebu) 
 
-🤝 I’m looking for help with database
-
-👨‍💻 All of my projects are available at https://iydebu.me/
-
-📝 I regularly write articles on https://iydebu.me/
-
-💬 Ask me about C++, C, Python
-
-📫 How to reach me: debutiwa@gmail.com
-
-📄 Know about my experiences https://iydebu.me/
-
-⚡ Fun fact: I think I am the king of the virtual world
-
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i5-9300h&memory=16gb&gpu=nvidia-geforce-gtx-1660-ti&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/intel-core-i5-9300h/16gb/nvidia-geforce-gtx-1660-ti/forum.png"></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iydebu&show_icons=true&locale=en" alt="iydebu" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iydebu&" alt="iydebu" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iydebu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iydebu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iydebu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iydebu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=iydebu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iydebu) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/iydebu) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/iydebu) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
