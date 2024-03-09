@@ -32,7 +32,7 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iydebu) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/iydebu) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/iydebu) <a href="https://payments.cashfree.com/forms/coffee">
-  <img src="https://i.ibb.co/kGsm6Qp/Neon-Green-Minimalist-Typographic-Game-Twitter-Header-1.png" alt="UPI" style="width: 160px; height: 40px;">
+  <img src="https://i.ibb.co/6HR0N8K/Neon-Green-Minimalist-Typographic-Game-Twitter-Header-2.png" alt="UPI" style="width: 100px; height: 28px;">
 </a>
 
 
