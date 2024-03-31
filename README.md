@@ -23,6 +23,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iydebu&theme=dark&hide_border=false)<br/>
+![snake gif](https://github.com/iydebu/iydebu/blob/output/github-contribution-grid-snake.svg)
 
 
 ### ✍️ Random Dev Quote
@@ -37,5 +38,3 @@
 </a>
 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
