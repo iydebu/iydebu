@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=iydebu&icon=0&color=0)](https://visitcount.itsvg.in)
 [![MasterHead](https://i.ibb.co/XZ4nQ3T/Green-Simple-Personal-Linked-In-Banner.gif)](https://iydebu.me)
 
 <h1 align="center">Hi 👋, I'm Devashish Tiwari</h1>
@@ -21,20 +22,14 @@
 # 🎮 Big Boy:
 <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-14900kf&memory=32gb&gpu=nvidia-geforce-rtx-4070&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/intel-core-i9-14900kf/32gb/nvidia-geforce-rtx-4070/forum.png"></a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=iydebu&theme=dark&hide_border=false)<br/>
-![snake gif](https://github.com/iydebu/iydebu/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iydebu&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iydebu) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/iydebu) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/iydebu) <a href="https://payments.cashfree.com/forms/coffee">
-  <img src="https://i.ibb.co/6HR0N8K/Neon-Green-Minimalist-Typographic-Game-Twitter-Header-2.png" alt="UPI" style="width: 100px; height: 28px;">
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iydebu) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/iydebu) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/iydebu) ![Static Badge](https://img.shields.io/badge/UPI-20B2AA?style=for-the-badge&logoColor=blue&link=https%3A%2F%2Fpayments.cashfree.com%2Fforms%2Fcoffee)
+
 </a>
 
+![snake gif](https://github.com/iydebu/iydebu/blob/output/github-contribution-grid-snake-dark.svg)
 
