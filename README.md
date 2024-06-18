@@ -5,12 +5,12 @@
 <h3 align="center">A passionate Game developer </h3>
 
 # 💫 About Me:
-🔭 I'm currently working on developing an adrenaline-pumping FPS multiplayer game that promises intense action, strategic gameplay, and a variety of maps and weapons to keep players engaged. Join the battle and experience the thrill of multiplayer combat like never before! 💥🎯
-<br><br>👯 I'm looking to collaborate on game development projects! If you have an exciting game idea or need a team member to work on an FPS multiplayer game, feel free to reach out to me. I'm skilled in Unity/C#, Unreal Engine/C++, game design, and have a passion for creating immersive gaming experiences. Let's join forces and bring our ideas to life together! 🚀🎮
-<br><br>🤝 I'm looking for help with implementing network functionality and server infrastructure for my FPS multiplayer game. If you have experience in networking, server-side development, or multiplayer game architecture, I would love to collaborate with you. Let's build a seamless online experience for players to enjoy intense battles and competitive gameplay. Feel free to reach out if you're interested in joining the team! 🌐💻🎮
-<br><br>🌱 I'm currently learning advanced AI techniques and machine learning algorithms to enhance the AI behavior and decision-making in my FPS multiplayer game. Additionally, I'm diving deeper into shader programming to create stunning visual effects and optimize performance. Learning never stops in the world of game development, and I'm excited to keep growing and pushing the boundaries of what I can achieve! 📚🎮🧠
+🔭 Making FPS multiplayer game - intense action, strategy, variety! Join the battle! 💥🎯
+<br><br>👯 Looking to collab on game projects! Skilled in Unity/C#, Unreal Engine/C++, & love crafting immersive games. Let's build something awesome together! 🚀🎮
+<br><br>🤝 Need help with networking, servers for seamless online FPS multiplayer experience. Let me know if you're interested! 🌐💻🎮
+<br><br>🌱 Always learning! AI, machine learning, shader programming to enhance my FPS multiplayer game. 📚🎮🧠
 <br><br>💬 What programming languages are you using for your game development project? Are you focusing on a specific engine or using a custom framework? 🚀🔧🎮
-<br><br>⚡ Fun fact: Did you know that the iconic "Doomguy" character from the classic first-person shooter game "Doom" was originally meant to be just a placeholder sprite? The character's design was created by the lead artist Adrian Carmack, and he intended to replace it with a more refined character later on. However, the team loved the rough and rugged look of the character so much that they decided to keep it as the main protagonist throughout the series. "Doomguy" became an enduring symbol of the franchise and a beloved figure in gaming history. 🕹️👾🎮
+<br><br>⚡ That's a cool fact!  I love how sometimes placeholders can become iconic.  Anything else you'd like to know about game development? 🕹️👾🎮
 
 
 ## 🌐 Socials:
