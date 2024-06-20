@@ -29,20 +29,20 @@
 <!-- Social -->
 
 <h2 id="Social"><img src="https://i.ibb.co/xJ0xxzZ/social.gif" width="50" /> Socials:</h2>
-<p><a href="https://discord.gg/https://discord.gg/UT99PJeW8z"><img
+<p><a href="https://discord.gg/https://discord.gg/UT99PJeW8z" target="_blank"><img
          src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-         alt="Discord"></a> <a href="https://instagram.com/iydebu"><img
+         alt="Discord"></a> <a href="https://instagram.com/iydebu" target="_blank"><img
          src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-         alt="Instagram"></a> <a href="https://linkedin.com/in/iydebu"><img
+         alt="Instagram"></a> <a href="https://linkedin.com/in/iydebu" target="_blank"><img
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn"></a>
-   <a href="https://quora.com/profile/Iydebu"><img
+   <a href="https://quora.com/profile/Iydebu" target="_blank"><img
          src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"
-         alt="Quora"></a> <a href="https://reddit.com/user/iydebu"><img
+         alt="Quora"></a> <a href="https://reddit.com/user/iydebu" target="_blank"><img
          src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
-         alt="Reddit"></a> <a href="https://twitter.com/iydebu"><img
+         alt="Reddit"></a> <a href="https://twitter.com/iydebu" target="_blank"><img
          src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="Twitter"></a> <a href="https://youtube.com/@iydebu"><img
+         alt="Twitter"></a> <a href="https://youtube.com/@iydebu" target="_blank"><img
          src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
          alt="YouTube"></a>
 </p>
@@ -166,11 +166,12 @@
 <h1 id="Play Game"><img src="https://i.ibb.co/GR5SgMJ/game-controller.gif" width="50" /> Play Games:</h1>
 
 <a href="https://www.youtube.com/watch?v=uDO5v9z0aWU" target="_blank">
-    <img src="https://github.com/iydebu/iydebu/blob/main/Img/DirewolfDemo.gif" />
+   <img src="https://github.com/iydebu/iydebu/blob/main/Img/DirewolfDemo.gif" />
 </a>
 <br>
 <br>
-<a href="https://direwolf.netlify.app/" target = "_blank"><img alt="Static Badge" src="https://img.shields.io/badge/PLAY%20GAME-%20%2300bf633?style=flat-square" width = "150"></a>
+<a href="https://direwolf.netlify.app/" target="_blank"><img alt="Static Badge"
+      src="https://img.shields.io/badge/PLAY%20GAME-%20%2300bf633?style=flat-square" width="150"></a>
 
 <hr>
 
@@ -194,13 +195,13 @@
 <!-- Support Me -->
 
 <h2 id="Donating"><img src="https://i.ibb.co/dM2vmpy/donation.gif" width="50" /> You can help me by Donating</h2>
-<p> <a href="https://buymeacoffee.com/iydebu"><img
+<p> <a href="https://buymeacoffee.com/iydebu" target="_blank"><img
          src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black"
-         alt="BuyMeACoffee"></a> <a href="https://paypal.me/iydebu"><img
+         alt="BuyMeACoffee"></a> <a href="https://paypal.me/iydebu" target="_blank"><img
          src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&amp;logo=paypal&amp;logoColor=white"
-         alt="PayPal"></a> <a href="https://ko-fi.com/iydebu"><img
+         alt="PayPal"></a> <a href="https://ko-fi.com/iydebu" target="_blank"><img
          src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white"
-         alt="Ko-Fi"></a> <a href="https://payments.cashfree.com/forms/coffee"><img
+         alt="Ko-Fi"></a> <a href="https://payments.cashfree.com/forms/coffee" target="_blank"><img
          src="https://img.shields.io/badge/UPI-20B2AA?style=for-the-badge&amp;logoColor=blue" alt="UPI"></a></p>
 <p></a></p>
 
@@ -244,6 +245,7 @@
 <span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span>
 <span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span>
 </span></code>
+
          </html>
       </samp>
    </div>
