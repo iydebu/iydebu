@@ -11,9 +11,9 @@
    </a>
 </div>
 
+<!-- About Me -->
 
-<h1 id="About me"><img
-      src="https://i.ibb.co/5KPYksM/student.gif" width="50" /> About Me:</h1>
+<h1 id="About me"><img src="https://i.ibb.co/5KPYksM/student.gif" width="50" /> About Me:</h1>
 <p>🔭 Making FPS multiplayer game - intense action, strategy, variety! Join the battle! 💥🎯
    <br><br>👯 Looking to collab on game projects! Skilled in Unity/C#, Unreal Engine/C++, &amp; love crafting immersive
    games. Let&#39;s build something awesome together! 🚀🎮
@@ -26,28 +26,30 @@
    to know about game development? 🕹️👾🎮
 </p>
 
+<!-- Social -->
 
-<h2 id="Social"><img src="https://i.ibb.co/xJ0xxzZ/social.gif"
-      width="50" /> Socials:</h2>
+<h2 id="Social"><img src="https://i.ibb.co/xJ0xxzZ/social.gif" width="50" /> Socials:</h2>
 <p><a href="https://discord.gg/https://discord.gg/UT99PJeW8z"><img
-         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a
-      href="https://instagram.com/iydebu"><img
+         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+         alt="Discord"></a> <a href="https://instagram.com/iydebu"><img
          src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
          alt="Instagram"></a> <a href="https://linkedin.com/in/iydebu"><img
-         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="LinkedIn"></a>
    <a href="https://quora.com/profile/Iydebu"><img
-         src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="Quora"></a> <a
-      href="https://reddit.com/user/iydebu"><img
-         src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a> <a
-      href="https://twitter.com/iydebu"><img
-         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> <a
-      href="https://youtube.com/@iydebu"><img
-         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+         src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"
+         alt="Quora"></a> <a href="https://reddit.com/user/iydebu"><img
+         src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
+         alt="Reddit"></a> <a href="https://twitter.com/iydebu"><img
+         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="Twitter"></a> <a href="https://youtube.com/@iydebu"><img
+         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+         alt="YouTube"></a>
 </p>
 
+<!-- Tech Stack -->
 
-<h1 id="Tech Stack"><img src="https://i.ibb.co/MVThCMH/tech.gif"
-      width="50" /> Tech Stack:</h1>
+<h1 id="Tech Stack"><img src="https://i.ibb.co/MVThCMH/tech.gif" width="50" /> Tech Stack:</h1>
 <p><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white"
       alt="C#"> <img
       src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"
@@ -90,8 +92,9 @@
       alt="Adobe Photoshop">
 </p>
 
-<h1 id="Big Boy"><img src="https://i.ibb.co/YjJHZT8/bigboy.gif"
-      width="50" /> Big Boy:</h1>
+<!-- Big Boy -->
+
+<h1 id="Big Boy"><img src="https://i.ibb.co/YjJHZT8/bigboy.gif" width="50" /> Big Boy:</h1>
 <details>
    <summary></summary>
    <div>
@@ -106,58 +109,76 @@
 
 <hr>
 
-<h1 id="Github stats"><img src="https://i.ibb.co/kq5CGK2/stats.gif"
-      width="50" /> Github Stats:</h1>
+<!-- Github Stats -->
 
-<!--Github stats Table--> 
+<h1 id="Github stats"><img src="https://i.ibb.co/kq5CGK2/stats.gif" width="50" /> Github Stats:</h1>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/iydebu">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=iydebu&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/iydebu">
-          <img align="center" src="https://streak-stats.demolab.com/?user=iydebu&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/iydebu/Gambling_Gurus">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=iydebu&repo=Gambling_Gurus&theme=nightowl&show_owner=true" alt="Gambling Gurus" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/iydebu">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=iydebu&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
+<details>
+   <summary>Stats ⬇️</summary>
+   <div>
+      <samp>
 
-<!--Contribution Graph-->
-<h2 align="center"> Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iydebu&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
+         <!--Github stats Table-->
 
----
+         <table width="100%">
+            <tr>
+               <td width="50%">
+                  <h3 align="center"><strong>GITHUB STATS</strong></h3>
+                  <p align="center">
+                     <a href="https://github.com/iydebu">
+                        <img align="center"
+                           src="https://github-readme-stats.vercel.app/api?username=iydebu&count_private=true&show_icons=true&theme=nightowl"
+                           alt="GitHub Stats" />
+                     </a>
+                  </p>
+               </td>
+               <td width="50%">
+                  <h3 align="center"><strong>STREAK STATE</strong></h3>
+                  <p align="center">
+                     <a href="https://github.com/iydebu">
+                        <img align="center" src="https://streak-stats.demolab.com/?user=iydebu&theme=nightowl"
+                           alt="Streak Stats" />
+                     </a>
+                  </p>
+               </td>
+            </tr>
+            <tr>
+               <td width="50%">
+                  <h3 align="center"><strong>TOP LANGUAGE</strong></h3>
+                  <p align="center">
+                     <a href="https://github.com/iydebu">
+                        <img
+                           src="https://github-readme-stats.vercel.app/api/top-langs?username=iydebu&show_icons=true&locale=en&layout=compact&theme=nightowl"
+                           alt="Language" />
+                     </a>
+                  </p>
+               </td>
+               <td width="50%">
+                  <h3 align="center"><strong>TOP CONTRIBUTIONS</strong></h3>
+                  <p align="center">
+                     <a href="https://github.com/iydebu">
+                        <img align="center"
+                           src="https://github-contributor-stats.vercel.app/api?username=iydebu&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true"
+                           alt="Top Repo" />
+                     </a>
+                  </p>
+               </td>
+            </tr>
+         </table>
+         <br />
+
+         <!--Contribution Graph-->
+
+         <h2 align="center"> Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
+         <div align="center">
+            <img
+               src="https://github-readme-activity-graph.vercel.app/graph?username=iydebu&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false"
+               border-radius="15">
+         </div>
+
+      </samp>
+   </div>
+</details>
 
 <p><img src="https://github.com/iydebu/iydebu/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif">
 </p>
@@ -177,23 +198,7 @@
 <p></a></p>
 
 <hr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- ART -->
 
 <details>
    <summary>My Art➡️</summary>
@@ -232,6 +237,7 @@
 <span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span>
 <span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span>
 </span></code>
+
          </html>
       </samp>
    </div>
