@@ -165,7 +165,9 @@
 
 <h1 id="Play Game"><img src="https://i.ibb.co/GR5SgMJ/game-controller.gif" width="50" /> Play Games:</h1>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uDO5v9z0aWU/0.jpg)](https://www.youtube.com/watch?v=uDO5v9z0aWU)
+<a href="https://www.youtube.com/watch?v=uDO5v9z0aWU" target="_blank">
+    <img src="https://github.com/iydebu/iydebu/blob/main/Img/DirewolfDemo-ezgif.com-optimize.gif" />
+</a>
 
 <hr>
 
