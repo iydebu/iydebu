@@ -166,8 +166,11 @@
 <h1 id="Play Game"><img src="https://i.ibb.co/GR5SgMJ/game-controller.gif" width="50" /> Play Games:</h1>
 
 <a href="https://www.youtube.com/watch?v=uDO5v9z0aWU" target="_blank">
-    <img src="https://github.com/iydebu/iydebu/blob/main/Img/DirewolfDemo-ezgif.com-optimize.gif" />
+    <img src="https://github.com/iydebu/iydebu/blob/main/Img/DirewolfDemo.gif" />
 </a>
+<br>
+<br>
+<a href="https://direwolf.netlify.app/" target = "_blank"><img alt="Static Badge" src="https://img.shields.io/badge/PLAY%20GAME-%20%2300bf633?style=flat-square" width = "150"></a>
 
 <hr>
 
