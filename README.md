@@ -92,23 +92,6 @@
       alt="Adobe Photoshop">
 </p>
 
-<!-- Big Boy -->
-
-<h1 id="Big Boy"><img src="https://i.ibb.co/YjJHZT8/bigboy.gif" width="50" /> Big Boy:</h1>
-<details>
-   <summary>💻</summary>
-   <div>
-      <samp>
-         <p><a title="System requirements and Rate my PC tool - all at PCGameBenchmark"
-               href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-14900kf&memory=32gb&gpu=nvidia-geforce-rtx-4070&platform=windows"><img
-                  src="https://www.pcgamebenchmark.com/signature/intel-core-i9-14900kf/32gb/nvidia-geforce-rtx-4070/forum.png"></a>
-         </p>
-      </samp>
-   </div>
-</details>
-
-<hr>
-
 <!-- Github Stats -->
 
 <h1 id="Github stats"><img src="https://i.ibb.co/kq5CGK2/stats.gif" width="50" /> Github Stats:</h1>
@@ -180,8 +163,27 @@
 
 <hr>
 
-<h2 id="-img-src-https-i-ibb-co-qnplvv5-donation-gif-width-30-you-can-help-me-by-donating"><img
-      src="https://i.ibb.co/dM2vmpy/donation.gif" width="50" /> You can help me by Donating</h2>
+
+<!-- Big Boy -->
+
+<h1 id="Big Boy"><img src="https://i.ibb.co/YjJHZT8/bigboy.gif" width="50" /> Big Boy:</h1>
+<details>
+   <summary>💻</summary>
+   <div>
+      <samp>
+         <p><a title="System requirements and Rate my PC tool - all at PCGameBenchmark"
+               href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-14900kf&memory=32gb&gpu=nvidia-geforce-rtx-4070&platform=windows"><img
+                  src="https://www.pcgamebenchmark.com/signature/intel-core-i9-14900kf/32gb/nvidia-geforce-rtx-4070/forum.png"></a>
+         </p>
+      </samp>
+   </div>
+</details>
+
+<hr>
+
+<!-- Support Me -->
+
+<h2 id="Donating"><img src="https://i.ibb.co/dM2vmpy/donation.gif" width="50" /> You can help me by Donating</h2>
 <p> <a href="https://buymeacoffee.com/iydebu"><img
          src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black"
          alt="BuyMeACoffee"></a> <a href="https://paypal.me/iydebu"><img
@@ -232,7 +234,6 @@
 <span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span>
 <span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span><span>(</span>
 </span></code>
-
          </html>
       </samp>
    </div>
