@@ -96,7 +96,7 @@
 
 <h1 id="Big Boy"><img src="https://i.ibb.co/YjJHZT8/bigboy.gif" width="50" /> Big Boy:</h1>
 <details>
-   <summary></summary>
+   <summary>💻</summary>
    <div>
       <samp>
          <p><a title="System requirements and Rate my PC tool - all at PCGameBenchmark"
@@ -117,9 +117,7 @@
    <summary>Stats ⬇️</summary>
    <div>
       <samp>
-
          <!--Github stats Table-->
-
          <table width="100%">
             <tr>
                <td width="50%">
@@ -166,16 +164,13 @@
             </tr>
          </table>
          <br />
-
          <!--Contribution Graph-->
-
          <h2 align="center"> Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
          <div align="center">
             <img
                src="https://github-readme-activity-graph.vercel.app/graph?username=iydebu&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false"
                border-radius="15">
          </div>
-
       </samp>
    </div>
 </details>
