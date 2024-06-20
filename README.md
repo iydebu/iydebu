@@ -12,8 +12,8 @@
 </div>
 
 
-<h1 id="-img-src-https-i-ibb-co-gvgxbrg-bar-chart-gif-width-30-about-me-"><img
-      src="https://i.ibb.co/gVGxbRG/bar-chart.gif" width="30" /> About Me:</h1>
+<h1 id="About me"><img
+      src="https://i.ibb.co/5KPYksM/student.gif" width="50" /> About Me:</h1>
 <p>🔭 Making FPS multiplayer game - intense action, strategy, variety! Join the battle! 💥🎯
    <br><br>👯 Looking to collab on game projects! Skilled in Unity/C#, Unreal Engine/C++, &amp; love crafting immersive
    games. Let&#39;s build something awesome together! 🚀🎮
@@ -27,8 +27,8 @@
 </p>
 
 
-<h2 id="-img-src-https-i-ibb-co-2gcgjjd-vlogger-gif-width-30-socials-"><img src="https://i.ibb.co/2gCGjJD/vlogger.gif"
-      width="30" /> Socials:</h2>
+<h2 id="Social"><img src="https://i.ibb.co/xJ0xxzZ/social.gif"
+      width="50" /> Socials:</h2>
 <p><a href="https://discord.gg/https://discord.gg/UT99PJeW8z"><img
          src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a
       href="https://instagram.com/iydebu"><img
@@ -46,8 +46,8 @@
 </p>
 
 
-<h1 id="-img-src-https-i-ibb-co-8z3wws8-coding-gif-width-30-tech-stack-"><img src="https://i.ibb.co/8z3wwS8/coding.gif"
-      width="30" /> Tech Stack:</h1>
+<h1 id="Tech Stack"><img src="https://i.ibb.co/MVThCMH/tech.gif"
+      width="50" /> Tech Stack:</h1>
 <p><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white"
       alt="C#"> <img
       src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"
@@ -90,8 +90,8 @@
       alt="Adobe Photoshop">
 </p>
 
-<h1 id="-img-src-https-i-ibb-co-7kwd7z3-startup-gif-width-30-big-boy-"><img src="https://i.ibb.co/7kwd7z3/startup.gif"
-      width="30" /> Big Boy:</h1>
+<h1 id="Big Boy"><img src="https://i.ibb.co/YjJHZT8/bigboy.gif"
+      width="50" /> Big Boy:</h1>
 <details>
    <summary></summary>
    <div>
@@ -106,8 +106,66 @@
 
 <hr>
 
+<h1 id="Github stats"><img src="https://i.ibb.co/kq5CGK2/stats.gif"
+      width="50" /> Github Stats:</h1>
+
+<!--Github stats Table--> 
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/iydebu">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=iydebu&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/iydebu">
+          <img align="center" src="https://streak-stats.demolab.com/?user=iydebu&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/iydebu/Gambling_Gurus">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=iydebu&repo=Gambling_Gurus&theme=nightowl&show_owner=true" alt="Gambling Gurus" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/iydebu">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=iydebu&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center"> Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iydebu&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<p><img src="https://github.com/iydebu/iydebu/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif">
+</p>
+
+<hr>
+
 <h2 id="-img-src-https-i-ibb-co-qnplvv5-donation-gif-width-30-you-can-help-me-by-donating"><img
-      src="https://i.ibb.co/QNPLvV5/donation.gif" width="30" /> You can help me by Donating</h2>
+      src="https://i.ibb.co/dM2vmpy/donation.gif" width="50" /> You can help me by Donating</h2>
 <p> <a href="https://buymeacoffee.com/iydebu"><img
          src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black"
          alt="BuyMeACoffee"></a> <a href="https://paypal.me/iydebu"><img
@@ -118,9 +176,24 @@
          src="https://img.shields.io/badge/UPI-20B2AA?style=for-the-badge&amp;logoColor=blue" alt="UPI"></a></p>
 <p></a></p>
 
+<hr>
 
-<p><img src="https://github.com/iydebu/iydebu/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif">
-</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <details>
    <summary>My Art➡️</summary>
