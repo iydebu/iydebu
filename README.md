@@ -29,20 +29,26 @@
 <!-- Social -->
 
 <h2 id="Social"><img src="https://i.ibb.co/xJ0xxzZ/social.gif" width="50" /> Socials:</h2>
-<p><a href="https://discord.gg/https://discord.gg/UT99PJeW8z" target="_blank"><img
+<p>
+   <a href="https://discord.gg/UT99PJeW8z" target="_blank"><img
          src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-         alt="Discord"></a> <a href="https://instagram.com/iydebu" target="_blank"><img
+         alt="Discord"></a>
+   <a href="https://instagram.com/iydebu" target="_blank"><img
          src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-         alt="Instagram"></a> <a href="https://linkedin.com/in/iydebu" target="_blank"><img
+         alt="Instagram"></a>
+   <a href="https://linkedin.com/in/iydebu" target="_blank"><img
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn"></a>
    <a href="https://quora.com/profile/Iydebu" target="_blank"><img
          src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"
-         alt="Quora"></a> <a href="https://reddit.com/user/iydebu" target="_blank"><img
+         alt="Quora"></a>
+   <a href="https://reddit.com/user/iydebu" target="_blank"><img
          src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
-         alt="Reddit"></a> <a href="https://twitter.com/iydebu" target="_blank"><img
+         alt="Reddit"></a>
+   <a href="https://twitter.com/iydebu" target="_blank"><img
          src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="Twitter"></a> <a href="https://youtube.com/@iydebu" target="_blank"><img
+         alt="Twitter"></a>
+   <a href="https://youtube.com/@iydebu" target="_blank"><img
          src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
          alt="YouTube"></a>
 </p>
