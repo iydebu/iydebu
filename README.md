@@ -14,7 +14,7 @@
 <!-- About Me -->
 
 <h1 id="About me"><img src="https://i.ibb.co/5KPYksM/student.gif" width="50" /> About Me:</h1>
-<p>🔭 Making FPS multiplayer game - intense action, strategy, variety! Join the battle! 💥🎯
+<p>🔭 Making FPS multiplayer game - intense action, strategy, variety! Join the battle! 💥🎯(non - commercial)
    <br><br><!--👯 Looking to collab on game projects! Skilled in Unity/C#, Unreal Engine/C++, &amp; love crafting immersive
    games. Let&#39;s build something awesome together! 🚀🎮--> 👯 Working as the game play programmer in the Tuttifrutti Interactive 🚀🎮
    <br><br>🤝 Need help with networking, servers for seamless online FPS multiplayer experience. 🌐💻🎮
