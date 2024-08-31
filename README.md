@@ -15,10 +15,9 @@
 
 <h1 id="About me"><img src="https://i.ibb.co/5KPYksM/student.gif" width="50" /> About Me:</h1>
 <p>🔭 Making FPS multiplayer game - intense action, strategy, variety! Join the battle! 💥🎯
-   <br><br>👯 Looking to collab on game projects! Skilled in Unity/C#, Unreal Engine/C++, &amp; love crafting immersive
-   games. Let&#39;s build something awesome together! 🚀🎮
-   <br><br>🤝 Need help with networking, servers for seamless online FPS multiplayer experience. Let me know if
-   you&#39;re interested! 🌐💻🎮
+   <br><br><!--👯 Looking to collab on game projects! Skilled in Unity/C#, Unreal Engine/C++, &amp; love crafting immersive
+   games. Let&#39;s build something awesome together! 🚀🎮--> 👯 Working as the game play programmer in the Tuttifrutti Interactive 🚀🎮
+   <br><br>🤝 Need help with networking, servers for seamless online FPS multiplayer experience. 🌐💻🎮
    <br><br>🌱 Always learning! AI, machine learning, shader programming to enhance my FPS multiplayer game. 📚🎮🧠
    <br><br>💬 What programming languages are you using for your game development project? Are you focusing on a specific
    engine or using a custom framework? 🚀🔧🎮
