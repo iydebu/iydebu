@@ -14,9 +14,8 @@
 <!-- About Me -->
 
 <h1 id="About me"><img src="https://i.ibb.co/5KPYksM/student.gif" width="50" /> About Me:</h1>
-<p>🔭 Making FPS multiplayer game - intense action, strategy, variety! Join the battle! 💥🎯(non - commercial)
-   <br><br><!--👯 Looking to collab on game projects! Skilled in Unity/C#, Unreal Engine/C++, &amp; love crafting immersive
-   games. Let&#39;s build something awesome together! 🚀🎮--> 👯 Working as the game play programmer in the Tuttifrutti Interactive 🚀🎮
+<p>📚 Current Learning Journey: Diving deep into Unreal Engine development, advancing Unity skills to expert level, and exploring web game development with Phaser.js 🎯✨
+   <br><br>👯 Currently learning Unreal Engine, intermediate Unity dev, beginner in Phaser.js 🚀🎮
    <br><br>🤝 Need help with networking, servers for seamless online FPS multiplayer experience. 🌐💻🎮
    <br><br>🌱 Always learning! AI, machine learning, shader programming to enhance my FPS multiplayer game. 📚🎮🧠
    <br><br>💬 What programming languages are you using for your game development project? Are you focusing on a specific
@@ -24,6 +23,12 @@
    <br><br>⚡ That&#39;s a cool fact! I love how sometimes placeholders can become iconic. Anything else you&#39;d like
    to know about game development? 🕹️👾🎮
 </p>
+
+<h1 id= "engine">🎮 Game Engines: </h1>
+  <br><b>Unreal Engine</b> - Learning (C++ & Blueprints)
+  <br><b>Unity</b> - Intermediate (C#)
+  <br><b>Phaser.js</b> - Beginner (JavaScript/TypeScript)
+
 
 <!-- Social -->
 
@@ -63,6 +68,9 @@
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white"
       alt="Java"> <img
       src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net">
+  <img src="https://img.shields.io/badge/Phaser-4B9EE8?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+
    <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&amp;logo=opencv&amp;logoColor=white"
       alt="OpenCV"> <img
       src="https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white"
