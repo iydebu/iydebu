@@ -29,7 +29,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/pixel-snake.svg?color_snake=#fbbf24&color_dots=#132a2e,#0e4f4a,#0f766e,#14b8a6,#5eead4
+            dist/pixel-snake.svg?color_snake=#ffd54a&color_dots=#132a2e,#0e4f4a,#0f766e,#14b8a6,#5eead4
 
       # live PLAYER STATS panel (GitHub GraphQL -> pixel SVG, stdlib python)
       - name: generate pixel stats

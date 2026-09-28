@@ -2,208 +2,65 @@
   "login": "iydebu",
   "name": "DEVASHISH TIWARI",
   "handle": "IYDEBU",
+  "logo": "DEBU",
   "portfolio": "https://iydebu.com",
   "taglines": [
     "GAMEPLAY PROGRAMMER",
-    "UNITY · UNREAL · PHASER",
-    "C# // C++ // JAVASCRIPT",
-    "BUILDING WORLDS FRAME BY FRAME"
+    "UNREAL 5 (C++) · UNITY (C#)",
+    "AI IS MY PARTNER",
+    "TUTTIFRUTTI INTERACTIVE"
+  ],
+  "cartridges": [
+    ["▶ PLAY", "PLATFORMER · REAL WORK", "teal"],
+    ["PORTFOLIO", "ONE PAGE · 30 SECONDS", "gold"]
   ],
   "card": [
-    [
-      "CLASS",
-      "GAMEPLAY PROGRAMMER"
-    ],
-    [
-      "GUILD",
-      "TUTTIFRUTTI INTERACTIVE"
-    ],
-    [
-      "CO-OP",
-      "SECERNATE GAMES"
-    ],
-    [
-      "BASE",
-      "KOCHI, KERALA, INDIA"
-    ]
+    ["CLASS", "GAMEPLAY PROGRAMMER"],
+    ["GUILD", "TUTTIFRUTTI INTERACTIVE"],
+    ["CO-OP", "SECERNATE GAMES"],
+    ["BASE", "KOCHI, KERALA, INDIA"]
+  ],
+  "card_stats": [
+    ["3+", "YEARS MAKING GAMES"],
+    ["2", "GAMES ON STEAM"],
+    ["40+", "PUBLIC REPOS"]
+  ],
+  "dialog": [
+    "HI, I'M DEBU: GAMEPLAY PROGRAMMER AT TUTTIFRUTTI INTERACTIVE.",
+    "I BUILD PLAYER MECHANICS, CUTSCENES, FACE ANIMATION, ENGINE",
+    "UPDATES AND DEV TOOLS IN UNREAL ENGINE 5 (C++) AND UNITY (C#).",
+    "I WORK WITH AI AS MY PARTNER, NOT MY SERVANT.",
+    "WE LEARN FROM EACH OTHER AND BUILD TOGETHER."
   ],
   "skills": [
-    [
-      "C#",
-      9
-    ],
-    [
-      "UNITY",
-      9
-    ],
-    [
-      "C++",
-      7
-    ],
-    [
-      "UNREAL",
-      7
-    ],
-    [
-      "JS/PHASER",
-      5
-    ],
-    [
-      "BLENDER",
-      4
-    ]
+    ["C#", 9],
+    ["UNITY", 9],
+    ["C++", 7],
+    ["UNREAL 5", 7],
+    ["NETCODE", 6],
+    ["PYTHON", 5],
+    ["JS / TS", 5],
+    ["AI PARTNER", 9]
   ],
   "quests": [
-    [
-      "active",
-      "MAIN",
-      "CHRISTOPHER REDEMPTION I",
-      "CO-DEV @ SECERNATE GAMES · STEAM"
-    ],
-    [
-      "active",
-      "MAIN",
-      "GAMEPLAY @ TUTTIFRUTTI",
-      "PLAYER FEEL, CAMERAS, COMBAT"
-    ],
-    [
-      "active",
-      "SIDE",
-      "MASTER UNREAL C++",
-      "CUSTOM CAMERA + MOVEMENT SYSTEMS"
-    ],
-    [
-      "todo",
-      "SIDE",
-      "ONLINE FPS MULTIPLAYER",
-      "NETCODE, SERVERS, LAG COMP"
-    ],
-    [
-      "done",
-      "DONE",
-      "DIREWOLF",
-      "PHASER.JS WEB GAME - PLAYABLE BELOW"
-    ],
-    [
-      "done",
-      "DONE",
-      "LEVEL UP UNITY + C#",
-      "BEGINNER -> ADVANCED"
-    ]
+    ["done", "SHIP", "THE CHRISTOPHER REDEMPTION I", "CO-DEV @ SECERNATE · STEAM 2025"],
+    ["done", "SHIP", "DARKARTA: IOS, WIN, ANDROID", "TUTTIFRUTTI · STEAM"],
+    ["active", "WORK", "UE5 C++ CAMERA MODULE", "1ST + 3RD PERSON"],
+    ["active", "OWN", "DRONE SHOT (UE5)", "DRONE SHOOTER, IN PROGRESS"],
+    ["active", "OWN", "LOGIC: AI CODING TUTOR", "VS CODE + JETBRAINS"],
+    ["done", "OWN", "DIREWOLF: MULTIPLAYER FPS", "UNITY · PHOTON · NETCODE"],
+    ["done", "OWN", "WINGY (ANDROID)", "UNITY 2D"],
+    ["done", "OWN", "WINDOWS DIAGNOSTIC TOOL", "C++ · OPEN SOURCE"]
   ],
   "inventory": [
-    [
-      "WEAPONS",
-      [
-        [
-          "C++",
-          "L"
-        ],
-        [
-          "C#",
-          "L"
-        ],
-        [
-          "C",
-          "R"
-        ],
-        [
-          "JAVA",
-          "C"
-        ],
-        [
-          "JAVASCRIPT",
-          "E"
-        ],
-        [
-          ".NET",
-          "R"
-        ]
-      ]
-    ],
-    [
-      "ENGINES",
-      [
-        [
-          "UNREAL",
-          "L"
-        ],
-        [
-          "UNITY",
-          "L"
-        ],
-        [
-          "PHASER",
-          "E"
-        ],
-        [
-          "ANDROID",
-          "R"
-        ]
-      ]
-    ],
-    [
-      "TOOLS",
-      [
-        [
-          "BLENDER",
-          "E"
-        ],
-        [
-          "PHOTOSHOP",
-          "R"
-        ],
-        [
-          "CANVA",
-          "C"
-        ],
-        [
-          "OPENCV",
-          "C"
-        ]
-      ]
-    ],
-    [
-      "CLOUD+DATA",
-      [
-        [
-          "FIREBASE",
-          "R"
-        ],
-        [
-          "GOOGLE CLOUD",
-          "C"
-        ],
-        [
-          "CLOUDFLARE",
-          "C"
-        ],
-        [
-          "DIGITALOCEAN",
-          "C"
-        ],
-        [
-          "ORACLE",
-          "C"
-        ],
-        [
-          "MONGODB",
-          "R"
-        ],
-        [
-          "MYSQL",
-          "R"
-        ],
-        [
-          "REALM",
-          "C"
-        ],
-        [
-          "APACHE",
-          "C"
-        ]
-      ]
-    ]
+    ["WEAPONS", [["C++", "L"], ["C#", "L"], ["PYTHON", "E"], ["TYPESCRIPT", "R"], ["JAVASCRIPT", "E"], ["C", "R"], ["JAVA", "C"], [".NET", "R"]]],
+    ["ENGINES", [["UNREAL 5", "L"], ["UNITY", "L"], ["BLUEPRINTS", "E"], ["NIAGARA", "R"], ["PHASER", "R"], ["ANDROID", "R"]]],
+    ["NETWORK", [["PHOTON", "E"], ["NETCODE", "E"], ["ASP.NET", "R"], ["FIREBASE", "R"], ["MONGODB", "C"], ["MYSQL", "C"]]],
+    ["TOOLS", [["GIT", "E"], ["BLENDER", "R"], ["PHOTOSHOP", "C"], ["DOCKER", "C"], ["CLOUDFLARE", "C"], ["GOOGLE CLOUD", "C"]]]
+  ],
+  "steam": [
+    ["STEAM · CHRISTOPHER REDEMPTION I", "https://store.steampowered.com/app/2691340/", "gold"],
+    ["STEAM · DARKARTA", "https://store.steampowered.com/app/634180/", "white"]
   ],
   "arcade": {
     "gif": "Img/DirewolfDemo.gif",
@@ -211,94 +68,30 @@
     "video": "https://www.youtube.com/watch?v=uDO5v9z0aWU"
   },
   "socials": [
-    [
-      "PORTFOLIO",
-      "https://iydebu.com",
-      "#14b8a6"
-    ],
-    [
-      "LINKEDIN",
-      "https://linkedin.com/in/iydebu",
-      "#0a66c2"
-    ],
-    [
-      "X",
-      "https://x.com/iydebu",
-      "#1f2937"
-    ],
-    [
-      "YOUTUBE",
-      "https://youtube.com/@iydebu",
-      "#e11d48"
-    ],
-    [
-      "DISCORD",
-      "https://discord.gg/UT99PJeW8z",
-      "#5865f2"
-    ],
-    [
-      "REDDIT",
-      "https://reddit.com/user/iydebu",
-      "#ff4500"
-    ],
-    [
-      "INSTAGRAM",
-      "https://instagram.com/iydebu",
-      "#c13584"
-    ],
-    [
-      "QUORA",
-      "https://quora.com/profile/Iydebu",
-      "#b92b27"
-    ]
+    ["PORTFOLIO", "https://iydebu.com", "gold"],
+    ["EMAIL", "mailto:iydebu.io@gmail.com", "gold"],
+    ["LINKEDIN", "https://www.linkedin.com/in/iydebu", "teal"],
+    ["TELEGRAM", "https://t.me/iydebu", "teal"],
+    ["YOUTUBE", "https://www.youtube.com/@iydebu", "teal"],
+    ["X", "https://x.com/iydebu", "white"],
+    ["DISCORD", "https://discord.gg/UT99PJeW8z", "white"],
+    ["REDDIT", "https://reddit.com/user/iydebu", "white"],
+    ["INSTAGRAM", "https://instagram.com/iydebu", "white"],
+    ["QUORA", "https://quora.com/profile/Iydebu", "white"]
   ],
   "donate": [
-    [
-      "BUY ME A COFFEE",
-      "https://buymeacoffee.com/iydebu",
-      "#fbbf24"
-    ],
-    [
-      "KO-FI",
-      "https://ko-fi.com/iydebu",
-      "#f16061"
-    ],
-    [
-      "PAYPAL",
-      "https://paypal.me/iydebu",
-      "#0070ba"
-    ],
-    [
-      "UPI",
-      "https://payments.cashfree.com/forms/coffee",
-      "#20b2aa"
-    ]
+    ["BUY ME A COFFEE", "https://buymeacoffee.com/iydebu", "gold"],
+    ["KO-FI", "https://ko-fi.com/iydebu", "white"],
+    ["PAYPAL", "https://paypal.me/iydebu", "white"],
+    ["UPI", "https://payments.cashfree.com/forms/coffee", "white"]
   ],
   "rig": {
     "link": "https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-14900kf&memory=32gb&gpu=nvidia-geforce-rtx-4070&platform=windows",
     "lines": [
-      [
-        "CPU",
-        "INTEL CORE I9-14900KF"
-      ],
-      [
-        "GPU",
-        "NVIDIA RTX 4070"
-      ],
-      [
-        "RAM",
-        "32 GB"
-      ],
-      [
-        "OS",
-        "WINDOWS 11"
-      ]
+      ["CPU", "INTEL CORE I9-14900KF"],
+      ["GPU", "NVIDIA RTX 4070"],
+      ["RAM", "32 GB"],
+      ["OS", "WINDOWS 11"]
     ]
-  },
-  "dialog": [
-    "HI, I'M DEBU - A GAMEPLAY PROGRAMMER.",
-    "I MAKE GAMES FEEL GOOD TO PLAY: CAMERAS,",
-    "MOVEMENT AND COMBAT. UNITY BY DAY, UNREAL",
-    "C++ BY NIGHT. NEXT QUEST: ONLINE FPS."
-  ]
+  }
 }
