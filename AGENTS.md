@@ -1,24 +1,28 @@
 # iydebu profile README
 
-What it is: GitHub profile repo iydebu/iydebu, themed like iydebu.com (navy #1a1a2e, paper #fffbee, teal #14b8a6, gold #ffd54a, red #e0474c; hero = the site title screen).
+What it is: GitHub profile repo iydebu/iydebu. Minimal, GitHub-native look (since 2026-09-28): plain markdown body,
+GitHub Primer colours plus one teal accent (#14b8a6), transparent images in dark + light versions swapped with <picture>.
+Debu rejected the busy pixel/iydebu.com theme as "hodgepodge"; keep it minimal.
 Facts come from D:/Personal/Portfolio Website/site/content.js: real facts only, never list Debu's personal PC tools.
-Stack: README.md (HTML) + generated SVGs, stdlib Python.
+Stack: README.md (markdown + <picture>) + 2 generated SVGs, stdlib Python.
 
 ## Run it
 
-    python tools/build_pixel.py              # rebuild Img/pixel/*.svg from tools/profile.json
-    python tools/build_pixel.py stats out.svg # live stats panel (needs GITHUB_TOKEN or gh auth)
+    python tools/build_pixel.py            # Img/header-dark.svg + header-light.svg from tools/profile.json
+    python tools/build_pixel.py stats DIR  # DIR/stats-dark.svg + stats-light.svg (needs GITHUB_TOKEN or gh auth)
 
 ## Conventions
 
-- Edit text/skills/links in tools/profile.json, never hand-edit SVGs.
-- GitHub strips CSS/fonts in README HTML: all styling lives inside SVGs (pixel font drawn as rects).
-- .github/workflows/MAIN.yml rebuilds pixel-stats.svg + pixel-snake.svg daily into the `output` branch.
+- Text in the README is plain markdown; only the header wordmark and stats panel are images.
+- Every generated image needs a dark AND a light version; the README swaps them with <picture>.
+- .github/workflows/MAIN.yml rebuilds stats-*.svg + the GitHub-palette snakes daily into the `output` branch.
 - Never push without asking Debu.
 
 ## Gotchas
 
-- github-readme-stats.vercel.app and activity-graph are dead (503/402); visitcount.itsvg.in 404. Use komarev + own stats.
-- Local preview: gh api markdown + headless Chrome; output-branch images do not exist until the workflow runs once.
+- github-readme-stats.vercel.app and activity-graph are dead (503/402). Use our own stats.
+- Local preview: gh api markdown + headless Chrome. The API rewrites image URLs through camo, so swap them after rendering.
+- git push via the default credential helper hangs (GUI prompt); use
+  git -c credential.helper= -c "credential.helper=!gh auth git-credential" push
 
 Work history is in .hermes/JOURNAL.md.
