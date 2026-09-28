@@ -1,4 +1,4 @@
-name: pixel profile
+name: profile
 
 on:
   # refresh stats + snake once a day
@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # snake eats the contribution graph; pixel-snake.svg uses the teal palette
+      # snake eats the contribution graph, in GitHub's own light/dark palettes
       - name: generate snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -29,13 +29,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/pixel-snake.svg?color_snake=#ffd54a&color_dots=#132a2e,#0e4f4a,#0f766e,#14b8a6,#5eead4
 
-      # live PLAYER STATS panel (GitHub GraphQL -> pixel SVG, stdlib python)
-      - name: generate pixel stats
+      # live stats panel, dark + light (GitHub GraphQL -> SVG, stdlib python)
+      - name: generate stats
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 tools/build_pixel.py stats dist/pixel-stats.svg
+        run: python3 tools/build_pixel.py stats dist
 
       # everything in dist/ is published to the `output` branch
       # served at https://raw.githubusercontent.com/<user>/<repo>/output/<file>
