@@ -488,7 +488,7 @@ def slug(s):
 # ---------------------------------------------------------------- rig + footer
 def rig():
     lines = P["rig"]["lines"]
-    W, H = 840, 60 + 30 * len(lines) + 30
+    W, H = 840, 60 + 30 * len(lines) + 56
     b = [f'<rect width="{W}" height="{H}" fill="{C["bg"]}"/>', frame(0, 0, W, H, C["line"], C["ink"], 4, C["panel2"])]
     b.append(sprite(ICONS["pc"], IPAL, 40, 40, 14))
     x, y = 200, 36
