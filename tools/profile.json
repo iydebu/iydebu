@@ -1,0 +1,304 @@
+{
+  "login": "iydebu",
+  "name": "DEVASHISH TIWARI",
+  "handle": "IYDEBU",
+  "portfolio": "https://iydebu.com",
+  "taglines": [
+    "GAMEPLAY PROGRAMMER",
+    "UNITY · UNREAL · PHASER",
+    "C# // C++ // JAVASCRIPT",
+    "BUILDING WORLDS FRAME BY FRAME"
+  ],
+  "card": [
+    [
+      "CLASS",
+      "GAMEPLAY PROGRAMMER"
+    ],
+    [
+      "GUILD",
+      "TUTTIFRUTTI INTERACTIVE"
+    ],
+    [
+      "CO-OP",
+      "SECERNATE GAMES"
+    ],
+    [
+      "BASE",
+      "KOCHI, KERALA, INDIA"
+    ]
+  ],
+  "skills": [
+    [
+      "C#",
+      9
+    ],
+    [
+      "UNITY",
+      9
+    ],
+    [
+      "C++",
+      7
+    ],
+    [
+      "UNREAL",
+      7
+    ],
+    [
+      "JS/PHASER",
+      5
+    ],
+    [
+      "BLENDER",
+      4
+    ]
+  ],
+  "quests": [
+    [
+      "active",
+      "MAIN",
+      "THE CHRISTOPHER REDEMPTION - I",
+      "CO-DEV @ SECERNATE GAMES · STEAM"
+    ],
+    [
+      "active",
+      "MAIN",
+      "GAMEPLAY SYSTEMS @ TUTTIFRUTTI",
+      "PLAYER FEEL, CAMERAS, COMBAT"
+    ],
+    [
+      "active",
+      "SIDE",
+      "MASTER UNREAL C++",
+      "CUSTOM CAMERA + MOVEMENT SYSTEMS"
+    ],
+    [
+      "todo",
+      "SIDE",
+      "ONLINE FPS MULTIPLAYER",
+      "NETCODE, SERVERS, LAG COMP"
+    ],
+    [
+      "done",
+      "DONE",
+      "DIREWOLF",
+      "PHASER.JS WEB GAME - PLAYABLE BELOW"
+    ],
+    [
+      "done",
+      "DONE",
+      "LEVEL UP UNITY + C#",
+      "BEGINNER -> ADVANCED"
+    ]
+  ],
+  "inventory": [
+    [
+      "WEAPONS",
+      [
+        [
+          "C++",
+          "L"
+        ],
+        [
+          "C#",
+          "L"
+        ],
+        [
+          "C",
+          "R"
+        ],
+        [
+          "JAVA",
+          "C"
+        ],
+        [
+          "JAVASCRIPT",
+          "E"
+        ],
+        [
+          ".NET",
+          "R"
+        ]
+      ]
+    ],
+    [
+      "ENGINES",
+      [
+        [
+          "UNREAL",
+          "L"
+        ],
+        [
+          "UNITY",
+          "L"
+        ],
+        [
+          "PHASER",
+          "E"
+        ],
+        [
+          "ANDROID",
+          "R"
+        ]
+      ]
+    ],
+    [
+      "TOOLS",
+      [
+        [
+          "BLENDER",
+          "E"
+        ],
+        [
+          "PHOTOSHOP",
+          "R"
+        ],
+        [
+          "CANVA",
+          "C"
+        ],
+        [
+          "OPENCV",
+          "C"
+        ]
+      ]
+    ],
+    [
+      "CLOUD+DATA",
+      [
+        [
+          "FIREBASE",
+          "R"
+        ],
+        [
+          "GOOGLE CLOUD",
+          "C"
+        ],
+        [
+          "CLOUDFLARE",
+          "C"
+        ],
+        [
+          "DIGITALOCEAN",
+          "C"
+        ],
+        [
+          "ORACLE",
+          "C"
+        ],
+        [
+          "MONGODB",
+          "R"
+        ],
+        [
+          "MYSQL",
+          "R"
+        ],
+        [
+          "REALM",
+          "C"
+        ],
+        [
+          "APACHE",
+          "C"
+        ]
+      ]
+    ]
+  ],
+  "arcade": {
+    "gif": "Img/DirewolfDemo.gif",
+    "play": "https://direwolf.netlify.app/",
+    "video": "https://www.youtube.com/watch?v=uDO5v9z0aWU"
+  },
+  "socials": [
+    [
+      "PORTFOLIO",
+      "https://iydebu.com",
+      "#14b8a6"
+    ],
+    [
+      "LINKEDIN",
+      "https://linkedin.com/in/iydebu",
+      "#0a66c2"
+    ],
+    [
+      "X",
+      "https://x.com/iydebu",
+      "#1f2937"
+    ],
+    [
+      "YOUTUBE",
+      "https://youtube.com/@iydebu",
+      "#e11d48"
+    ],
+    [
+      "DISCORD",
+      "https://discord.gg/UT99PJeW8z",
+      "#5865f2"
+    ],
+    [
+      "REDDIT",
+      "https://reddit.com/user/iydebu",
+      "#ff4500"
+    ],
+    [
+      "INSTAGRAM",
+      "https://instagram.com/iydebu",
+      "#c13584"
+    ],
+    [
+      "QUORA",
+      "https://quora.com/profile/Iydebu",
+      "#b92b27"
+    ]
+  ],
+  "donate": [
+    [
+      "BUY ME A COFFEE",
+      "https://buymeacoffee.com/iydebu",
+      "#fbbf24"
+    ],
+    [
+      "KO-FI",
+      "https://ko-fi.com/iydebu",
+      "#f16061"
+    ],
+    [
+      "PAYPAL",
+      "https://paypal.me/iydebu",
+      "#0070ba"
+    ],
+    [
+      "UPI",
+      "https://payments.cashfree.com/forms/coffee",
+      "#20b2aa"
+    ]
+  ],
+  "rig": {
+    "link": "https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i9-14900kf&memory=32gb&gpu=nvidia-geforce-rtx-4070&platform=windows",
+    "lines": [
+      [
+        "CPU",
+        "INTEL CORE I9-14900KF"
+      ],
+      [
+        "GPU",
+        "NVIDIA RTX 4070"
+      ],
+      [
+        "RAM",
+        "32 GB"
+      ],
+      [
+        "OS",
+        "WINDOWS 11"
+      ]
+    ]
+  },
+  "dialog": [
+    "HI, I'M DEBU - A GAMEPLAY PROGRAMMER.",
+    "I MAKE GAMES FEEL GOOD TO PLAY: CAMERAS,",
+    "MOVEMENT AND COMBAT. UNITY BY DAY, UNREAL",
+    "C++ BY NIGHT. NEXT QUEST: ONLINE FPS."
+  ]
+}
