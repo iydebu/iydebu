@@ -1,6 +1,7 @@
 # iydebu profile README
 
-What it is: GitHub profile repo iydebu/iydebu, pixel-retro theme (teal #0b1416 / #14b8a6).
+What it is: GitHub profile repo iydebu/iydebu, themed like iydebu.com (navy #1a1a2e, paper #fffbee, teal #14b8a6, gold #ffd54a, red #e0474c; hero = the site title screen).
+Facts come from D:/Personal/Portfolio Website/site/content.js: real facts only, never list Debu's personal PC tools.
 Stack: README.md (HTML) + generated SVGs, stdlib Python.
 
 ## Run it
