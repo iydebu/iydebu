@@ -23,6 +23,7 @@ I work with AI as my partner, not my servant.
 
 ### Own projects
 
+- **[LudoNow](https://ludonow.iydebu.com/)** · free online Ludo for phone and PC browsers: vs computer, friends on one screen, room codes, online matchmaking · plain JavaScript + Cloudflare Workers
 - **[Direwolf](https://direwolf.netlify.app)** · online multiplayer FPS in Unity · [trailer](https://www.youtube.com/watch?v=uDO5v9z0aWU)
 - **Drone Shot** · drone flying shooter in Unreal Engine 5 (in progress)
 - **LOGIC** · AI coding tutor inside the editor; the learner types every line
