@@ -14,6 +14,14 @@ I work with AI as my partner, not my servant.
 
 [Portfolio](https://iydebu.com) · [Email](mailto:iydebu.io@gmail.com) · [LinkedIn](https://www.linkedin.com/in/iydebu) · [Telegram](https://t.me/iydebu) · [YouTube](https://www.youtube.com/@iydebu)
 
+### Featured game
+
+<a href="https://ludonow.iydebu.com/"><img src="Img/ludonow.jpg" width="60%" alt="LudoNow - online Ludo for phone and PC browsers"></a>
+
+**[LudoNow](https://ludonow.iydebu.com/)** · 2026 · solo developer · a Ludo game for phone and PC browsers. Play the computer, friends on one screen, friends in a room, or strangers online. The server rolls the dice and runs the turns, so nobody can cheat. **[▶ Play now](https://ludonow.iydebu.com/)**
+
+`JavaScript` `Cloudflare Workers` `Multiplayer` `SVG`
+
 ### Shipped on Steam
 
 <a href="https://store.steampowered.com/app/2691340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2691340/header.jpg" width="49%" alt="The Christopher Redemption - I"></a>&nbsp;<a href="https://store.steampowered.com/app/634180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/634180/header.jpg" width="49%" alt="Darkarta: A Broken Heart's Quest"></a>
@@ -23,7 +31,6 @@ I work with AI as my partner, not my servant.
 
 ### Own projects
 
-- **[LudoNow](https://ludonow.iydebu.com/)** · free online Ludo for phone and PC browsers: vs computer, friends on one screen, room codes, online matchmaking · plain JavaScript + Cloudflare Workers
 - **[Direwolf](https://direwolf.netlify.app)** · online multiplayer FPS in Unity · [trailer](https://www.youtube.com/watch?v=uDO5v9z0aWU)
 - **Drone Shot** · drone flying shooter in Unreal Engine 5 (in progress)
 - **LOGIC** · AI coding tutor inside the editor; the learner types every line
